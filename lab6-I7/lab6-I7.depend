@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511382075 source:d:\poteras\exlab6\lab6-i7\i-7.c
+	<stdio.h>
+	<string.h>
+	<limits.h>
+
